@@ -18,12 +18,12 @@ As such, it has been a fun journey having to juggle between the world of abstrac
 
 The main topics we cover are:
 
-https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%201.pdf
 
-1. Descriptive statistics
-2. Data visualization
-3. Linear regression: model building and model evaluation
-4. Basic of probability: axioms, rules, and random variables
-5. Discrete and continuous distributions
-6. Further topics in probability
-7. Statistical inferences
+
+1. __[Descriptive statistics](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%201.pdf)__
+2. __[Data visualization](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%202.pdf)__
+3. __[Linear regression:](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%203.pdf)__ model building and model evaluation
+4. __[Basic of probability:](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%204.pdf)__ axioms, rules, and random variables
+5. __[Discrete and continuous distributions](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%205.pdf)__
+6. __[Further topics in probability](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%206.pdf)__
+7. __[Statistical inferences](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%207.pdf)__

@@ -18,6 +18,8 @@ As such, it has been a fun journey having to juggle between the world of abstrac
 
 The main topics we cover are:
 
+https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%201.pdf
+
 1. Descriptive statistics
 2. Data visualization
 3. Linear regression: model building and model evaluation

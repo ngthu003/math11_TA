@@ -24,7 +24,7 @@ The main topics we cover are:
 4. __[Basic of probability:](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%204.pdf)__ axioms, rules, and random variables
 5. __[Discrete and continuous distributions](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%205.pdf)__
 6. __[Further topics in probability](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%206.pdf)__
-7. __[Statistical inference](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%207.pdf)__
+7. __[Statistical inference](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%207.pdf)__ Central Limit Theorem, condience interval
 8. __[Review of probability and statistical inference](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%208.pdf)__
 
 

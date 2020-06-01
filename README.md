@@ -2,7 +2,7 @@
 
 This repository is a collection of course notes and discussion notes for Math 11 - Calculus-based Introduction to Probability and Statistics at UCSD, which I have prepared while TA-ing during Winter '20 and Spring '20.
 
-This course is espcially designed for students who marjoing in biology-related majors, such as biology, general biology, public health majors, etc, students who will go on to medical school. As such, different from other more traditional probability and statistics classes, I have been trying hard to convey the concepts into "more accessible" language (ie. without using math jargons, such as
+This course is especially designed for students who majoring in biology-related majors, such as biology, general biology, public health majors, etc, students who will go on to medical school. As such, different from other more traditional probability and statistics classes, I have been trying hard to convey the concepts into "more accessible" language (ie. without using math jargons, such as
 
 > instead of "the probability of A conditioned on B", it is now "let's say B has happened, think about how it influences the chance of A happening"
 

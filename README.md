@@ -27,7 +27,7 @@ The main topics we cover are:
 7. __[Statistical inference](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%207.pdf)__ Central Limit Theorem, condience interval
 8. __[Review of probability and statistical inference](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%208.pdf)__
 9. __[Hypothesis testing:](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%209.pdf)__ 1-sample and 2-sample tests
-10. __[Goodness-of-fit test](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%2010.pdf)__
+10. __[Regression inference, Chi-squared tests](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%2010.pdf)__ Goodness-of-fit test, Independence test
 
 
 Additionally, this is the __[course notes](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Course%20Notes.pdf)__

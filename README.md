@@ -1,4 +1,4 @@
-# Math 11 - Resources
+# Math 11, Introduction to Probability and Statistics - Resources
 
 ###### Background Information
 
@@ -14,7 +14,7 @@ Events and probabilities, conditional probability, Bayes’ formula. Discrete an
 
 #### (A first-hand) Course Description
 
-This course is especially designed for students who are biology-related majors, such as biology, general biology, public health majors, etc, the majority of whom will go on to medical school. That said, a key difference compared to my previous experience is that they do not necessarily have as strong of a background in abstact thinking and mathematical maturity as students majoring in math and engineering related majors.
+This course is especially designed for students who are biology-related majors, such as biology, general biology, public health majors, etc, the majority of whom will go on to medical and pharmaceutical schools. That said, a key difference compared to my previous experience is that they do not necessarily have as strong of a background in abstact thinking and mathematical maturity as students majoring in math and engineering related majors.
 
 As such, different from other more traditional probability and statistics classes, I have been trying hard to convey the concepts into "more accessible" language (ie. without using math jargons, such as
 
@@ -47,7 +47,15 @@ The main topics we covered were:
 9. __[Hypothesis testing:](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%209.pdf)__ 1-sample and 2-sample tests
 10. __[Regression inference, Chi-squared tests](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Discussion%2010.pdf)__ Goodness-of-fit test, Independence test
 
-Additionally, to better help students with (1) understanding the big picture (ie. the *motivation* behind each concepts), (2) summarizing the key concepts definitions and their formulas, (3) comparing and contrasting between similar concepts, and (4) giving illustrations and important remakrs, I prepared this __[course notes](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Course%20Notes.pdf)__, which acted as a reference guide to all the major concepts covered in the course.
+Additionally, to better help students with 
+
+*  understanding the big picture (ie. the *motivation* behind each concepts), 
+*  summarizing the key concepts definitions and their formulas, 
+*  comparing and contrasting between similar concepts, and 
+*  giving illustrations and important remakrs, 
+
+I prepared this __[course notes](https://github.com/thn003/math11_TA/blob/master/Math%2011%20-%20Course%20Notes.pdf)__, which acted as a reference guide to all the major concepts covered in the course.
+
 
 ***
 

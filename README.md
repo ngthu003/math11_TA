@@ -2,7 +2,7 @@
 
 ###### Background Information
 
->  This repository is a collection of course notes and discussion notes for Math 11 - Calculus-based Introduction to Probability and Statistics at UCSD, which I prepared while TA-ing during Winter '20 and Spring '20.
+>  This repository is a collection of course notes and discussion notes for `Math 11 - Calculus-based Introduction to Probability and Statistics` at UCSD, which I prepared while TA-ing during Winter '20 and Spring '20.
 
 ***
 
